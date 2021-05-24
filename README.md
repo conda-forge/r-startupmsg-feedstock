@@ -3,7 +3,7 @@ About r-startupmsg
 
 Home: https://CRAN.R-project.org/package=startupmsg
 
-Package license: LGPL-3
+Package license: LGPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-startupmsg-feedstock/blob/master/LICENSE.txt)
 
