@@ -1,11 +1,11 @@
-About r-startupmsg
-==================
+About r-startupmsg-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-startupmsg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=startupmsg
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-startupmsg-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides utilities to create or suppress start-up messages.
 
