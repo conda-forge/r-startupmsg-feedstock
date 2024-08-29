@@ -1,4 +1,4 @@
-{% set version = "0.9.6.1" %}
+{% set version = "0.9.7" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/startupmsg_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/startupmsg/startupmsg_{{ version }}.tar.gz
-  sha256: 431b4eea5fe9f1f421518b24cd4ae27c9228f3311ac11bfcaf22620f86a65881
+  sha256: 49f8f7754af26b5fe8063213110520de5f4e1cc63b16de22e38181668639059e
 
 build:
-  number: 1
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
